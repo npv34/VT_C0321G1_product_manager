@@ -1,0 +1,19 @@
+#table-product {
+    width: 500px;
+    border-collapse: collapse;
+}
+
+.remove-product {
+    background-color: red;
+    color: white;
+}
+
+#add-product {
+    border: 1px solid black;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+
+#button-update-product {
+    display: none;
+}
